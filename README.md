@@ -1,4 +1,4 @@
-# Photo-Synth-Hyper-Sonic
+# Photo-Synth-Hyper-Sonic 2022
 A project I initialy worked on with some high school friends, that shifted into a solo project.
 
 This project started as Photo Synth, a movement shooter I designed with some highschool buddies that wanted to get into game development.
